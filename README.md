@@ -1,16 +1,15 @@
-### Hi there 👋
+# Dries007's GitHub Profile
 
-<!--
-**dries007/dries007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a curious engineer who likes to tinker with electronics and software. I think this represents me best: 👨🏻‍💻
 
-Here are some ideas to get you started:
+- 💼 I'm working at [Qteal](https://qteal.com). My work related projects don't generally use GitHub. See [LinkedIn](https://www.linkedin.com/in/dries007/) or [my website](https://dries007.net) for more info
+- ⛏️ Many of the projects on here are Minecraft related. I'm currently not doing much Minecraft mod development anymore.
+- 📖 Others are personal sideprojects I do for learning.
+- 🏫 Some of the (pre 2019) repositories are school related projects.
+- 🤖 There are some electronics related projects here, but most are not in Git. Some are on [my website](https://dries007.net) though.
+- 🖨️ I own a 3D printer, but much like the electronics projects, that generally doesn't end up on git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my most notable (open source) projects include:
+- **[CurseMeta](https://cursemeta.dries007.net/)**  Now deprecated proxy to the CurseForge (aka Twitch for a while) mod API that made third party Minecraft launcher integration possible. Used by MultiMC since 2017 and serves about 20 million requests per month.
+- **[MCLink](https://github.com/MCLink-Modding)** A service that lets someone make a (Twitch/Patreon) subscriber only Minecraft server automatically.
+- **[TerraFirmaCraft](https://github.com/TerraFirmaCraft)** The port to for Minecraft 1.12. This is a port of a mod I played a lot a long time ago. I started the project, but now most of the development is done by other members of the community.
