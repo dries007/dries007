@@ -1,4 +1,5 @@
-# Dries007's GitHub Profile
+
+![](https://github-readme-stats.vercel.app/api?username=dries007&count_private=true&show_icons=true&theme=dracula)
 
 I'm a curious engineer who likes to tinker with electronics and software. I think this represents me best: 👨🏻‍💻
 
